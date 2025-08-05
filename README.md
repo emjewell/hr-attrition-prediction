@@ -23,6 +23,8 @@ This project analyzes factors that contribute to employee attrition and uses pre
 - Offer remote/hybrid work options.
 - Focus on improving working conditions in the sales department.
 
+You can view the full code implementation in this notebook:  
+➡ [HR Attrition Analysis Notebook.ipynb](attritiondata.ipynb)
 
 Emily Jewell  
 jemily413@gmail.com
