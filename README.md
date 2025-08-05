@@ -24,4 +24,4 @@ This project analyzes factors that contribute to employee attrition and uses pre
 
 
 Emily Jewell  
-jemily413@gmail.com • [LinkedIn Profile]
+jemily413@gmail.com
