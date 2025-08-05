@@ -1,4 +1,5 @@
 # HR Attrition Analysis
+![Attrition Model Output](Graphs.png)
 
 ## Overview
 This project analyzes factors that contribute to employee attrition and uses predictive models to identify employees at risk of leaving. The results offer recommendations to improve retention, especially in the sales department.
