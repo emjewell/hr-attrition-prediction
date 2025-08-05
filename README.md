@@ -23,6 +23,12 @@ This project analyzes factors that contribute to employee attrition and uses pre
 - Offer remote/hybrid work options.
 - Focus on improving working conditions in the sales department.
 
+---
+
+### Note
+The dataset used in this public version of the project differs slightly from the one originally used in my course due to access restrictions. While the structure and methods remain consistent, some results and visuals may vary slightly based on the available data.
+
+
 You can view the full code implementation in this notebook:  
 ➡ [HR Attrition Analysis Notebook.ipynb](attritiondata.ipynb)
 
